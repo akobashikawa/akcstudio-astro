@@ -1,10 +1,6 @@
-# Astro Starter Kit: Blog
+# AKC Studio Astro: Blog
 
-```sh
-npm create astro@latest -- --template blog
-```
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+AKC Studio Blog usando Astro.
 
 Features:
 
