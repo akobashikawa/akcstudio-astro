@@ -8,7 +8,8 @@ import cloudflare from '@astrojs/cloudflare';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://akcstudio.com',
+//   site: 'https://akcstudio.com',
+  site: 'https://akcstudio-astro.akobashikawa.workers.dev/',
   integrations: [mdx(), sitemap()],
 
   fonts: [
